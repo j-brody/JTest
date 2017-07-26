@@ -1,6 +1,6 @@
 # Analysis Commons
 
-Outline:
+#### Outline:
 * Introduction to web-interface
 * Running a single variant analysis
 * Workflows and monitoring jobs
