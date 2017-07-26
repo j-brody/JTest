@@ -32,7 +32,7 @@ Parameter inputs:
 
 
 #### Task 2) Run SKAT test grouping variants into gene transcript regions and limit the variants to those with a CADD phred score > 2 and MAF <= 5%.
-_Italic_ inputs below are the same as single variant; update the parameters & files to change to a SKAT test.  Go to the monitor tab.  Click on the Name of a job ( or someone’s) that successfully completed the single variant analysis, then click “Launch as new Job” and modify the inputs.   
+_Italic_ inputs below are the same as single variant; update the parameters & files to change to a SKAT test.  Go to the monitor tab.  Click on the Name of a job ( or someone’s ) that successfully completed the single variant analysis, then click “Launch as new Job” and modify the inputs.   
 
 File inputs:
 * _phenofile -> phenotype/1KG_pheno.csv_
